@@ -1,0 +1,26 @@
+#include files
+../../external_dependencies/Eigen
+../../external_dependencies/glm
+../../external_dependencies/freeglut/include
+../../external_dependencies/glew/include
+../../external_dependencies/AntTweakBar/include
+../../external_dependencies/TinyXML/include
+../../external_dependencies/libigl/include
+
+#lib files
+../../external_dependencies/freeglut/lib/x64
+../../external_dependencies/glew/lib
+../../external_dependencies/AntTweakBar/lib
+../../external_dependencies/TinyXML/lib
+
+#lib
+glew32.lib
+glew32d.lib
+glew32mx.lib
+glew32mxd.lib
+glew32mxs.lib
+glew32mxsd.lib
+glew32s.lib
+glew32sd.lib
+tinyxml_STL.lib
+tinyxmld_STL.lib

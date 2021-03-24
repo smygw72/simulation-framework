@@ -1,0 +1,19 @@
+Wireframe           0
+Texture             0
+ScreenWidth         1366
+ScreenHeight        705
+
+MeshType            0
+MeshMass            1
+TetFilePath         ./mesh_models/hippo.mesh
+TetScaling          5
+
+SimMethod           0
+Timestep            0.0333
+Mattype             0
+YoungModule         10
+PoissonRatio        0
+AttachmentStiffness 120
+GravityConstant     100
+DampingCoefficient  0.001
+IterationsPerFrame  3
